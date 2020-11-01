@@ -1,3 +1,4 @@
-public class Batman {
 
+
+public class Batman {
 }
