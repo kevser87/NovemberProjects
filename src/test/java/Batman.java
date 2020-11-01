@@ -5,7 +5,6 @@ public class Batman {
         System.out.println("I will catch Joker");
 
         //Yes he will catch him
-    }
+    }}
 
 
-}
